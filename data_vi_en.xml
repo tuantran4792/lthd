@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+  <word>
+    <vi>xin chào</vi>
+    <en>hello</en>
+  </word>
+  <word>
+    <vi>làm</vi>
+    <en>do</en>
+  </word>
+  <word>
+    <vi>học tập</vi>
+    <en>study</en>
+  </word>
+  <word>
+    <vi>tiền</vi>
+    <en>money</en>
+  </word>
+  <word>
+    <vi>việc làm</vi>
+    <en>job</en>
+  </word>
+  <word>
+    <vi>giúp</vi>
+    <en>help</en>
+  </word>
+  <word>
+    <vi>hạnh phúc</vi>
+    <en>happy</en>
+  </word>
+  <word>
+    <vi>con cáo</vi>
+    <en>fox</en>
+  </word>
+  <word>
+    <vi>con hổ</vi>
+    <en>tiger</en>
+  </word>
+  <word>
+    <fr>courrier</fr>
+    <en>mail</en>
+  </word>
+  <word>
+    <vi>hy vọng</vi>
+    <en>hope</en>
+  </word>
+  <word>
+    <vi>mọi người</vi>
+    <en>people</en>
+  </word>
+</dict>
