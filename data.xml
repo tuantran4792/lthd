@@ -4,4 +4,48 @@
         <fr>bonjour</fr>
         <en>hello</en>
     </word>
+    <word>
+        <fr>faire</fr>
+        <en>do</en>
+    </word>
+    <word>
+        <fr>étude</fr>
+        <en>study</en>
+    </word>
+    <word>
+        <fr>argent</fr>
+        <en>money</en>
+    </word>
+    <word>
+        <fr>emploi</fr>
+        <en>job</en>
+    </word>
+    <word>
+        <fr>aidez moi</fr>
+        <en>help</en>
+    </word>
+    <word>
+        <fr>content</fr>
+        <en>happy</en>
+    </word>
+    <word>
+        <fr>renard</fr>
+        <en>fox</en>
+    </word>
+    <word>
+        <fr>tigre</fr>
+        <en>tiger</en>
+    </word>
+    <word>
+        <fr>courrier</fr>
+        <en>mail</en>
+    </word>
+    <word>
+        <fr>espérer</fr>
+        <en>hope</en>
+    </word>
+    <word>
+        <fr>gens</fr>
+        <en>people</en>
+    </word>
 </dict>
